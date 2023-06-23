@@ -1,0 +1,68 @@
+{
+  "head": "CAREERS",
+  "body": "Jump to Vacancies",
+  "bgImg": "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "community": {
+    "heading": "GROW YOUR CAREER AT GLOBAL VOICE MEDIA",
+    "body": [
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum officiis, autem nobis excepturi nostrum, adipisci ducimus possimus vel eaque veritatis rem quis error sed animi temporibus maxime incidunt eveniet inventore perspiciatis accusamus voluptatibus! Provident quasi neque explicabo iste illo illum quisquam eligendi voluptates voluptate. Unde, quos in at modi aperiam quis molestiae ex culpa, illo nostrum cum exercitationem corporis atque.",
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum quidem repellendus a quam doloribus quo iusto eveniet, sunt cumque quod tenetur distinctio, hic eligendi odio molestias culpa libero id dolore."
+    ],
+    "title": "SHOWING OFF OUR COMMUNITY",
+    "works": [
+      {
+        "img": "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Let your voice be heard"
+      },
+      {
+        "img": "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Let your voice be heard"
+      },
+      {
+        "img": "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Let your voice be heard"
+      },
+      {
+        "img": "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Let your voice be heard"
+      }
+    ]
+  },
+
+  "Values": {
+    "head": "OUR VALUES IMPACT OUR CULTURE",
+    "keyPoints": ["DREAM BIG", "PLAY TO WIN", "BRING VALUE", "TEAMWORK", "BE BOLD"],
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus dicta commodi quasi adipisci laudantium ullam ipsam non voluptatem, magni corporis.",
+    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique soluta, numquam cum consequuntur veniam nam, expedita, odit mollitia provident dicta dolore quas asperiores. Quia quis blanditiis id, dolorum similique repellendus modi. Sed doloremque, reprehenderit ab temporibus soluta laudantium nesciunt? Repellat incidunt quaerat magni repudiandae distinctio beatae quod iste eaque odio dolore? Necessitatibus illum at nulla assumenda, quidem, culpa fugit delectus dolorem ipsum voluptate quod iusto magnam ipsa quaerat itaque expedita harum unde. Nihil, culpa ea? Est, consectetur! Facilis, cum rem. Officia rem eaque laboriosam neque porro. Dicta dolorum molestias rem numquam nostrum error temporibus unde harum ab sequi, veritatis cum."
+  },
+  "jobListing": {
+    "emptyList": ["There is currently no Live jobs", "Please come back at a later date"],
+    "jobs": [
+      { "title": "Project Manager", "location": "Location" },
+      { "title": "Project Manager", "location": "Location" },
+      { "title": "Project Manager", "location": "Location" },
+      { "title": "Project Manager", "location": "Location" },
+      { "title": "Project Manager", "location": "Location" },
+      { "title": "Project Manager", "location": "Location" },
+      { "title": "Project Manager", "location": "Location" },
+      { "title": "Project Manager", "location": "Location" },
+      { "title": "Project Manager", "location": "Location" }
+    ]
+  },
+  "bigLink": [
+    {
+      "head": "Our team is made up of talented individuals from across the world",
+      "title": "MEET OUR TEAM",
+      "linkTitle": "Our Team",
+      "to": "/aboutus/ourteam",
+      "bgImg": "https://images.pexels.com/photos/3182792/pexels-photo-3182792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "head": "Our team is made up of talented individuals from across the world",
+      "title": "FREELANCE",
+      "linkTitle": "FREELANCE OPPORTUNITIES",
+      "to": "/joinus/freelance",
+      "bgImg": "https://images.pexels.com/photos/3987020/pexels-photo-3987020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}

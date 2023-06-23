@@ -1,0 +1,110 @@
+{
+  "head": "SITEMAP",
+  "mappings": [
+    {
+      "title": "Home",
+      "link": "/",
+      "mappings": []
+    },
+    {
+      "title": "About",
+      "link": "/aboutus",
+      "mappings": [
+        {
+          "title": "Meet our Team",
+          "link": "/aboutus/ourteam",
+          "mappings": [
+            {
+              "title": "Luigi Koechlin",
+              "link": "/aboutus/ourteam/luigi-koechlin",
+              "mappings": []
+            },
+            {
+              "title": "Craig Lovatt",
+              "link": "/aboutus/ourteam/craig-lovatt",
+              "mappings": []
+            },
+            {
+              "title": "Christine McGlosson",
+              "link": "/aboutus/ourteam/christine-mcglosson",
+              "mappings": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "link": "/services",
+      "mappings": [
+        {
+          "title": "Dubbing",
+          "link": "/services/dubbing",
+          "mappings": []
+        },
+        {
+          "title": "Subtitling",
+          "link": "/services/subtitling",
+          "mappings": []
+        },
+        {
+          "title": "Audio Description",
+          "link": "/services/audiodescription",
+          "mappings": []
+        },
+        {
+          "title": "Localisation",
+          "link": "/services/localisation",
+          "mappings": []
+        }
+      ]
+    },
+    {
+      "title": "Technology",
+      "link": "/technology",
+      "mappings": [
+        {
+          "title": "GVM Portal",
+          "link": "/technology/gvmportal",
+          "mappings": []
+        }
+      ]
+    },
+    {
+      "title": "Join Us",
+      "link": "/joinus",
+      "mappings": [
+        {
+          "title": "Careers",
+          "link": "/joinus/careers",
+          "mappings": []
+        },
+        {
+          "title": "Freelance",
+          "link": "/joinus/freelance",
+          "mappings": []
+        }
+      ]
+    },
+    {
+      "title": "Talk to an expert",
+      "link": "/contactus",
+      "mappings": []
+    },
+    {
+      "title": "Terms and Conditions",
+      "link": "/termsandconditions",
+      "mappings": []
+    },
+    {
+      "title": "Privacy Policy",
+      "link": "/privacypolicy",
+      "mappings": []
+    },
+    {
+      "title": "Environmental Policy",
+      "link": "/environmentalpolicy",
+      "mappings": []
+    }
+  ]
+}

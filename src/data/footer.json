@@ -1,0 +1,23 @@
+{
+  "email": "info@globalvoices.co.uk",
+  "links": [
+    { "name": "About Us", "to": "/aboutus" },
+    { "name": "Services", "to": "/services" },
+    { "name": "Technology", "to": "/technology" },
+    { "name": "Join Us", "to": "/joinus" },
+    { "name": "Talk to an Expert", "to": "/contactus" },
+    { "name": "Careers", "to": "/joinus/careers" }
+  ],
+  "contact": {
+    "title": "Lets Stay Connected",
+    "body": "Enter your email to receive your FREE quote",
+    "button": "SUBMIT"
+  },
+  "rights": "Global Voice Media. 2023 All rights reserved",
+  "otherLinks": [
+    { "name": "Privacy Policy", "to": "/privacypolicy" },
+    { "name": "Environmental Policy", "to": "/environmentalpolicy" },
+    { "name": "T&C'S", "to": "/termsandconditions" },
+    { "name": "Site Map", "to": "/sitemap" }
+  ]
+}

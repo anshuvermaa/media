@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  color: aliceblue;
+  font-size: 25px;
+  font-weight: 400;
+}
+h1 {
+  font-size: 120px;
+  font-weight: 900;
+  font-style: italic;
+}
+h2 {
+  font-size: 100px;
+  font-weight: 900;
+  font-style: italic;
+}
+h4 {
+  font-size: 25px;
+  font-weight: 800;
+  color: aliceblue;
+}
+h5 {
+  font-size: large;
+  font-weight: 800;
+  color: aliceblue;
+}
+h6,
+h6 > span {
+  font-size: large;
+  font-weight: 400;
+  color: aliceblue;
+}
+
+.Logos * {
+  color: #1e293b;
+}
+.leftArrow *,
+.rightArrow * {
+  color: orange;
+}
+
+.hideScrollBar::-webkit-scrollbar {
+  display: none;
+}

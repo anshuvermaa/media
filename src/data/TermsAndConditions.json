@@ -1,0 +1,24 @@
+{
+  "head": "Privacy Policy",
+  "update": "Last updated 25th January 2023",
+  "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur  Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur ",
+  "polices": [
+    {
+      "heading": "1. Acceptance of Terms",
+      "subheadings": [
+        {
+          "title": "1.1",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur soluta deserunt placeat necessitatibus obcaecati, ducimus dicta nesciunt quia quae odit rerum? Quia, esse accusantium? Numquam, ut. Cum quas fugiat nostrum dicta consequatur! Deserunt, doloribus. Cum ipsum consequuntur doloribus eligendi, corrupti facere necessitatibus qui corporis libero repellat, saepe sequi velit sit iusto Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur soluta deserunt placeat necessitatibus obcaecati, ducimus dicta nesciunt quia quae odit rerum? Quia, esse accusantium? Numquam, ut. Cum quas fugiat nostrum dicta consequatur! Deserunt, doloribus. Cum ipsum consequuntur doloribus eligendi, corrupti facere necessitatibus qui corporis libero repellat, saepe sequi velit sit iusto."
+        },
+        {
+          "title": "1.2",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur soluta deserunt placeat necessitatibus obcaecati, ducimus dicta nesciunt quia quae odit rerum? Quia, esse accusantium? Numquam, ut. Cum quas fugiat nostrum dicta consequatur! Deserunt, doloribus. Cum ipsum consequuntur doloribus eligendi, corrupti facere necessitatibus qui corporis libero repellat, saepe sequi velit sit iusto Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur soluta deserunt placeat necessitatibus obcaecati, ducimus dicta nesciunt quia quae odit rerum? Quia, esse accusantium? Numquam, ut. Cum quas fugiat nostrum dicta consequatur! Deserunt, doloribus. Cum ipsum consequuntur doloribus eligendi, corrupti facere necessitatibus qui corporis libero repellat, saepe sequi velit sit iusto."
+        }
+      ]
+    },
+    {
+      "heading": "2. Intellectual Property",
+      "subheadings": []
+    }
+  ]
+}

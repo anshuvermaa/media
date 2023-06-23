@@ -1,0 +1,53 @@
+{
+  "head": "GLOBAL VOICE MEDIA",
+  "body": "Captivate your global audience",
+  "bgImg": "https://images.pexels.com/photos/7149165/pexels-photo-7149165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "bigHeading": {
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque neque ipsa porro molestiae dolorem dignissimos eum, labore, explicabo velit laboriosam sapiente hic fuga minima quo tenetur beatae illum quibusdam quasi.",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat porro odit perspiciatis veniam facere facilis delectus debitis? Ducimus nobis amet id voluptas voluptatem ipsum fugit a, at doloremque ea consequuntur, dolores culpa reiciendis! Quam dolores molestiae obcaecati omnis quos laboriosam, pariatur non provident amet dolore reiciendis vero debitis explicabo quaerat?",
+      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat porro odit perspiciatis veniam facere facilis delectus debitis? Ducimus nobis amet id voluptas voluptatem ipsum fugit a, at doloremque ea consequuntur, dolores culpa reiciendis! Quam dolores molestiae obcaecati omnis quos laboriosam, pariatur non provident"
+    ]
+  },
+  "bigLink": [
+    {
+      "title": "OUR SERVICES",
+      "to": "/services",
+      "bgImg": "https://images.pexels.com/photos/4062559/pexels-photo-4062559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "title": "TECHNOLOGY",
+      "to": "/technology",
+      "bgImg": "https://images.pexels.com/photos/5650546/pexels-photo-5650546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "head": "We can make your content global",
+      "title": "LET'S CHAT",
+      "linkTitle": "CONTACT US",
+      "to": "/contactus",
+      "bgImg": "https://images.pexels.com/photos/2915957/pexels-photo-2915957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "PrideDiv": {
+    "heading": "WE PRIDE OURSELVES IN THE WAY WE DO THINGS ",
+    "points": [
+      "Each Section should have bullet points",
+      "As it allows users to quickly scan for information",
+      "And allow us to pick what we want them to see"
+    ],
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, incidunt velit ullam fuga numquam accusantium delectus voluptas similique enim expedita tempora cupiditate, eum ipsa omnis porro esse dolore ut mollitia!",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eum, libero corrupti tenetur illo saepe praesentium, eligendi itaque at qui blanditiis necessitatibus optio dignissimos id omnis fugit accusamus distinctio. Reiciendis nihil quis tenetur distinctio. Quo harum sequi beatae. Corrupti facere maiores, id sed ex quia consectetur rerum obcaecati consequatur beatae."
+  },
+  "StrongTeam": {
+    "heading": "BACKED BY A STRONGE TEAM AND COMMUNITY",
+    "link": {
+      "to": "/team",
+      "name": "MEET THE TEAM"
+    },
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, incidunt velit ullam fuga numquam accusantium delectus voluptas similique enim expedita tempora cupiditate, eum ipsa omnis porro esse dolore ut mollitia!",
+    "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas eum, libero corrupti tenetur illo saepe praesentium, eligendi itaque at qui blanditiis necessitatibus optio dignissimos id omnis fugit accusamus distinctio. Reiciendis nihil quis tenetur distinctio. Quo harum sequi beatae. Corrupti facere maiores, id sed ex quia consectetur rerum obcaecati consequatur beatae."
+  },
+  "ProvidedTo": {
+    "mainHeading": "TRUSTED BY"
+  }
+}

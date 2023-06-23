@@ -1,0 +1,59 @@
+{
+  "head": "MEET OUR TEAM",
+  "body": "Meet the team who lead this company towards success",
+  "bgImg": "https://images.pexels.com/photos/7149165/pexels-photo-7149165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+
+  "leadership": {
+    "head": "LEADERSHIP",
+    "leaders": [
+      {
+        "name": "FULL NAME",
+        "position": "Job Position",
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "name": "FULL NAME",
+        "position": "Job Position",
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "name": "FULL NAME",
+        "position": "Job Position",
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ]
+  },
+  "Values": {
+    "head": "OUR VALUES IMPACT OUR CULTURE",
+    "keyPoints": ["DREAM BIG", "PLAY TO WIN", "BRING VALUE", "TEAMWORK", "BE BOLD"],
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus dicta commodi quasi adipisci laudantium ullam ipsam non voluptatem, magni corporis.",
+    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique soluta, numquam cum consequuntur veniam nam, expedita, odit mollitia provident dicta dolore quas asperiores. Quia quis blanditiis id, dolorum similique repellendus modi. Sed doloremque, reprehenderit ab temporibus soluta laudantium nesciunt? Repellat incidunt quaerat magni repudiandae distinctio beatae quod iste eaque odio dolore? Necessitatibus illum at nulla assumenda, quidem, culpa fugit delectus dolorem ipsum voluptate quod iusto magnam ipsa quaerat itaque expedita harum unde. Nihil, culpa ea? Est, consectetur! Facilis, cum rem. Officia rem eaque laboriosam neque porro. Dicta dolorum molestias rem numquam nostrum error temporibus unde harum ab sequi, veritatis cum."
+  },
+  "otherPositions": [
+    {
+      "heading": "PROJECT MANAGERS",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui architecto itaque quas impedit! Culpa perferendis tempora laudantium facilis nemo sed.",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed rerum reprehenderit et, suscipit nulla alias qui tempore soluta dicta, voluptatibus, incidunt laborum hic. A non voluptas excepturi delectus commodi nemo neque vero porro voluptatibus provident beatae obcaecati placeat quasi unde dolorem vitae sunt, autem tempora doloremque odit fugit iusto eveniet? Tempora voluptate animi maiores debitis sapiente earum autem culpa officiis.",
+      "img": "https://images.pexels.com/photos/8412294/pexels-photo-8412294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "heading": "PROJECT MANAGERS",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui architecto itaque quas impedit! Culpa perferendis tempora laudantium facilis nemo sed.",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed rerum reprehenderit et, suscipit nulla alias qui tempore soluta dicta, voluptatibus, incidunt laborum hic. A non voluptas excepturi delectus commodi nemo neque vero porro voluptatibus provident beatae obcaecati placeat quasi unde dolorem vitae sunt, autem tempora doloremque odit fugit iusto eveniet? Tempora voluptate animi maiores debitis sapiente earum autem culpa officiis.",
+      "img": "https://images.pexels.com/photos/8412294/pexels-photo-8412294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "heading": "PROJECT MANAGERS",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui architecto itaque quas impedit! Culpa perferendis tempora laudantium facilis nemo sed.",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed rerum reprehenderit et, suscipit nulla alias qui tempore soluta dicta, voluptatibus, incidunt laborum hic. A non voluptas excepturi delectus commodi nemo neque vero porro voluptatibus provident beatae obcaecati placeat quasi unde dolorem vitae sunt, autem tempora doloremque odit fugit iusto eveniet? Tempora voluptate animi maiores debitis sapiente earum autem culpa officiis.",
+      "img": "https://images.pexels.com/photos/8412294/pexels-photo-8412294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "ProvidedTo": {
+    "head": "Our team is made up of talented individuals from across the world",
+    "title": "JOIN OUR TEAM",
+    "linkTitle": "Careers",
+    "to": "/joinus",
+    "bgImg": "https://images.pexels.com/photos/7556135/pexels-photo-7556135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+}

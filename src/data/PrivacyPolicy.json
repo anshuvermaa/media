@@ -1,0 +1,30 @@
+{
+  "head": "Privacy Policy",
+  "update": "Last updated 25th January 2023",
+  "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur soluta deserunt placeat necessitatibus obcaecati, ducimus dicta nesciunt quia quae odit rerum? Quia, esse accusantium? Numquam, ut. Cum quas fugiat nostrum dicta consequatur! Deserunt, doloribus. Cum ipsum consequuntur doloribus eligendi, corrupti facere necessitatibus qui corporis libero repellat, saepe sequi velit sit iusto. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur soluta deserunt placeat necessitatibus obcaecati, ducimus dicta nesciunt quia quae odit rerum? Quia, esse accusantium? Numquam, ut. Cum quas fugiat nostrum dicta consequatur! Deserunt, doloribus. Cum ipsum consequuntur doloribus eligendi, corrupti facere necessitatibus qui corporis libero repellat, saepe sequi velit sit iusto.",
+  "polices": [
+    {
+      "heading": "1. What Information We Collect About You",
+      "subheadings": [
+        {
+          "title": "a. Information You Provide to Global Voice Media",
+          "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur soluta deserunt placeat necessitatibus obcaecati, ducimus dicta nesciunt quia quae odit rerum? Quia, esse accusantium? Numquam, ut. Cum quas fugiat nostrum dicta consequatur! Deserunt, doloribus. Cum ipsum consequuntur doloribus eligendi, corrupti facere necessitatibus qui corporis libero repellat, saepe sequi velit sit iusto Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eos odio dolores ut provident aut nulla praesentium consequatur soluta deserunt placeat necessitatibus obcaecati, ducimus dicta nesciunt quia quae odit rerum? Quia, esse accusantium? Numquam, ut. Cum quas fugiat nostrum dicta consequatur! Deserunt, doloribus. Cum ipsum consequuntur doloribus eligendi, corrupti facere necessitatibus qui corporis libero repellat, saepe sequi velit sit iusto."
+        }
+      ]
+    }
+  ],
+  "sideNavBar": [
+    {
+      "title": "FOR CUSTOMERS",
+      "subheadings": ["Section 1", "Section 2", "Section 3"]
+    },
+    {
+      "title": "FOR PARTNERS",
+      "subheadings": ["Section 1", "Section 2", "Section 3"]
+    },
+    {
+      "title": "FOR EVERYONE",
+      "subheadings": ["Section 1", "Section 2", "Section 3"]
+    }
+  ]
+}

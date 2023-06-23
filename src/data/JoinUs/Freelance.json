@@ -1,0 +1,48 @@
+{
+  "head": "FREELANCE",
+  "body": "Jump to Vacancies",
+  "bgImg": "https://images.pexels.com/photos/3987020/pexels-photo-3987020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "links": [
+    { "title": "TRANSLATORS", "link": "#TRANSLATORS" },
+    { "title": "VOICE ACTORS", "link": "#VOICEACTORS" },
+    { "title": "DUBBING STUDIOS", "link": "#DUBBINGSTUDIOS" }
+  ],
+  "JoinCommunity": {
+    "heading": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborumincidunt eveniet inventore perspiciatis accusamus voluptatibus! Provident quasi",
+    "body": [
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum officiis, autem nobis excepturi nostrum, adipisci ducimus possimus vel eaque veritatis rem quis error sed animi temporibus maxime incidunt eveniet inventore perspiciatis accusamus voluptatibus! Provident quasi neque explicabo iste illo illum quisquam eligendi voluptates voluptate. Unde, quos in at modi aperiam quis molestiae ex culpa, illo nostrum cum exercitationem corporis atque.",
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum quidem repellendus a quam doloribus quo iusto eveniet, sunt cumque quod tenetur distinctio, hic eligendi odio molestias culpa libero id dolore. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum quidem repellendus a quam doloribus quo iusto eveniet, sunt cumque quod tenetur distinctio, hic eligendi odio molestias culpa libero id dolore."
+    ]
+  },
+  "Details": [
+    {
+      "heading": "Translators",
+      "id": "TRANSLATORS",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui architecto itaque quas impedit! Culpa perferendis tempora laudantium facilis nemo sed.",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed rerum reprehenderit et, suscipit nulla alias qui tempore soluta dicta, voluptatibus, incidunt laborum hic. A non voluptas excepturi delectus commodi nemo neque vero porro voluptatibus provident beatae obcaecati placeat quasi unde dolorem vitae sunt, autem ",
+      "img": "https://images.pexels.com/photos/8412294/pexels-photo-8412294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "heading": "Voice Actors",
+      "id": "VOICEACTORS",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui architecto itaque quas impedit! Culpa perferendis tempora laudantium facilis nemo sed.",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed rerum reprehenderit et, suscipit nulla alias qui tempore soluta dicta, voluptatibus, incidunt laborum hic. A non voluptas excepturi delectus commodi nemo neque vero porro voluptatibus provident beatae obcaecati placeat quasi unde dolorem vitae sunt, autem ",
+      "img": "https://images.pexels.com/photos/8412294/pexels-photo-8412294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "heading": "Dubbling Studios",
+      "id": "DUBBINGSTUDIOS",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui architecto itaque quas impedit! Culpa perferendis tempora laudantium facilis nemo sed.",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed rerum reprehenderit et, suscipit nulla alias qui tempore soluta dicta, voluptatibus, incidunt laborum hic. A non voluptas excepturi delectus commodi nemo neque vero porro voluptatibus provident beatae obcaecati placeat quasi unde dolorem vitae sunt, autem ",
+      "img": "https://images.pexels.com/photos/8412294/pexels-photo-8412294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "ProvidedTo": "TRUSTED BY",
+  "bigLink": {
+    "head": "Our team is made up of talented individuals from across the world",
+    "title": "ARE YOU READY?",
+    "linkTitle": "TALK TO AN EXPERT",
+    "to": "/joinus/careers",
+    "bgImg": "https://images.pexels.com/photos/3182792/pexels-photo-3182792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+}

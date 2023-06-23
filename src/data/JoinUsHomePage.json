@@ -1,0 +1,46 @@
+{
+  "head": "JOIN OUR NETWORK",
+  "body": "Captivate your global audience",
+  "bgImg": "https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "links": [
+    { "title": "CAREERS", "link": "#CAREERS" },
+    { "title": "FREELANCERS", "link": "#FREELANCERS" },
+    { "title": "PARTNERS", "link": "#PARTNERS" }
+  ],
+  "details": [
+    {
+      "heading": "CAREERS",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non qui nihil quo est repellendus? Repudiandae?",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/2769753/pexels-photo-2769753.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "to": "/joinus/careers",
+      "linkTitle": "CAREERS"
+    },
+    {
+      "heading": "FREELANCERS",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non qui nihil quo est repellendus? Repudiandae?",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/3182792/pexels-photo-3182792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "to": "/joinus/freelancers",
+      "linkTitle": "FREELANCERS"
+    }
+  ],
+  "Values": {
+    "head": "OUR VALUES IMPACT OUR CULTURE",
+    "keyPoints": ["DREAM BIG", "PLAY TO WIN", "BRING VALUE", "TEAMWORK", "BE BOLD"],
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus dicta commodi quasi adipisci laudantium ullam ipsam non voluptatem, magni corporis.",
+    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique soluta, numquam cum consequuntur veniam nam, expedita, odit mollitia provident dicta dolore quas asperiores. Quia quis blanditiis id, dolorum similique repellendus modi. Sed doloremque, reprehenderit ab temporibus soluta laudantium nesciunt? Repellat incidunt quaerat magni repudiandae distinctio beatae quod iste eaque odio dolore? Necessitatibus illum at nulla assumenda, quidem, culpa fugit delectus dolorem ipsum voluptate quod iusto magnam ipsa quaerat itaque expedita harum unde. Nihil, culpa ea? Est, consectetur! Facilis, cum rem. Officia rem eaque laboriosam neque porro. Dicta dolorum molestias rem numquam nostrum error temporibus unde harum ab sequi, veritatis cum."
+  },
+
+  "ProvidedTo": {
+    "mainHeading": "WE PROVIDE OUR SERVICES TO"
+  },
+
+  "bigLink": {
+    "head": "Our team is made up of talented individuals from across the world",
+    "title": "JOIN OUR TEAM",
+    "linkTitle": "Careers",
+    "to": "/joinus",
+    "bgImg": "https://images.pexels.com/photos/7556135/pexels-photo-7556135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+}

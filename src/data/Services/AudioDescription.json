@@ -1,0 +1,104 @@
+{
+  "head": "AUDIO DESCRIPTION",
+  "body": "Captivate your global audience",
+  "bgImg": "https://images.pexels.com/photos/8263327/pexels-photo-8263327.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "bigHeading": {
+    "heading": "HEADING",
+    "headingDetail": "Let's Discuss your dubbing needs",
+    "headingBtn": "Talk to an expert",
+    "detailHeading": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo dignissimos doloribus recusandae eligendi rem sint, quod inventore sapiente enim deserunt qui culpa iure at quia assumenda. Consectetur non odio deserunt nostrum maiores tenetur, exercitationem temporibus assumenda, sapiente, quos quaerat aperiam.",
+    "detailBody": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias quisquam optio, dicta a earum possimus vitae? Aliquam ut assumenda, dolores deleniti qui culpa amet aspernatur. Asperiores distinctio delectus expedita sit suscipit corrupti quae dolores aliquid possimus. Dignissimos odio nisi voluptates. Iste inventore quis nobis laborum repudiandae ad odio incidunt, voluptates quia at sit aliquam tempora aliquid cupiditate omnis reprehenderit quidem.",
+    "extra": "voiceDemo",
+    "extraData": {
+      "title": "Voice-over Showcase",
+      "body": [
+        "Here is the voice-over demo example that Global Voices Media produced for the EU Parliament, \"DG Grow\", undertaken in 24 different voices.",
+        "Just press the play button to listen in English, or select any language below."
+      ],
+      "languages": [
+        { "name": "English", "shortForm": "en" },
+        { "name": "Spanish", "shortForm": "es" },
+        { "name": "French", "shortForm": "fr" },
+        { "name": "German", "shortForm": "de" },
+        { "name": "Italian", "shortForm": "it" },
+        { "name": "Portuguese", "shortForm": "pt" },
+        { "name": "Dutch", "shortForm": "nl" },
+        { "name": "Swedish", "shortForm": "sv" },
+        { "name": "Norwegian", "shortForm": "no" },
+        { "name": "Danish", "shortForm": "da" },
+        { "name": "Finnish", "shortForm": "fi" },
+        { "name": "Russian", "shortForm": "ru" },
+        { "name": "Polish", "shortForm": "pl" },
+        { "name": "Czech", "shortForm": "cs" },
+        { "name": "Slovak", "shortForm": "sk" },
+        { "name": "Hungarian", "shortForm": "hu" },
+        { "name": "Romanian", "shortForm": "ro" },
+        { "name": "Bulgarian", "shortForm": "bg" },
+        { "name": "Greek", "shortForm": "el" },
+        { "name": "Turkish", "shortForm": "tr" },
+        { "name": "Arabic", "shortForm": "ar" },
+        { "name": "Chinese", "shortForm": "zh" },
+        { "name": "Japanese", "shortForm": "ja" },
+        { "name": "Korean", "shortForm": "ko" }
+      ],
+      "imgUrl": "https://images.pexels.com/photos/5905968/pexels-photo-5905968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "imgTitle": "Professional, High Quality and Scalable Audio Solution"
+    }
+  },
+  "details": [
+    {
+      "title": "DUBBING",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/8412294/pexels-photo-8412294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "points": [
+        "Each Section should have bullet points",
+        "As it allows users to quickly scan for information",
+        "And allow us to pick what we want them to see"
+      ]
+    },
+    {
+      "title": "SUBTITLING",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/7586689/pexels-photo-7586689.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "points": [
+        "Each Section should have bullet points",
+        "As it allows users to quickly scan for information",
+        "And allow us to pick what we want them to see"
+      ]
+    },
+    {
+      "title": "AUDIO DESCRIPTION",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/7086735/pexels-photo-7086735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "points": [
+        "Each Section should have bullet points",
+        "As it allows users to quickly scan for information",
+        "And allow us to pick what we want them to see"
+      ]
+    },
+    {
+      "title": "LOCALISATION",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/7086289/pexels-photo-7086289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "points": [
+        "Each Section should have bullet points",
+        "As it allows users to quickly scan for information",
+        "And allow us to pick what we want them to see"
+      ]
+    }
+  ],
+  "ProvidedTo": {
+    "mainHeading": "WE'RE TRUSTED BY",
+    "subHeading1": "WE'VE WORKED ON",
+    "subHeading2": "WHICH ALLOWS US TO PROVIDE YOU WITH A WORLD CLASS SERVICE",
+    "detailHeading": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo dignissimos doloribus recusandae eligendi rem sint, quod inventore sapiente enim deserunt qui culpa iure at quia assumenda. Consectetur non odio deserunt nostrum maiores tenetur, exercitationem temporibus assumenda, sapiente, quos quaerat aperiam.",
+    "detailBody": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias quisquam optio, dicta a earum possimus vitae? Aliquam ut assumenda, dolores deleniti qui culpa amet aspernatur. Asperiores distinctio delectus expedita sit suscipit corrupti quae dolores aliquid possimus. Dignissimos odio nisi voluptates. Iste inventore quis nobis laborum repudiandae ad odio incidunt, voluptates quia at sit aliquam tempora aliquid cupiditate omnis reprehenderit quidem."
+  },
+  "bigLink": {
+    "head": "We can make your content global",
+    "title": "LET'S CHAT",
+    "linkTitle": "CONTACT US",
+    "to": "/contactus",
+    "bgImg": "https://images.pexels.com/photos/34223/mont-saint-michel-france-normandy-europe.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+}

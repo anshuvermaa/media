@@ -1,0 +1,43 @@
+{
+  "head": "SERVICES",
+  "body": "Let's get somebody excited about our services within this text box!",
+  "bgImg": "https://images.pexels.com/photos/4062559/pexels-photo-4062559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "links": [
+    { "title": "DUBBING", "link": "#DUBBING" },
+    { "title": "SUBTITLING", "link": "#SUBTITLING" },
+    { "title": "AUDIO DeSCRIPTION", "link": "#AUDIODESCRIPTION" },
+    { "title": "LOCALISATION", "link": "#LOCALISATION" }
+  ],
+  "details": [
+    {
+      "title": "DUBBING",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/8412294/pexels-photo-8412294.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "title": "SUBTITLING",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/7586689/pexels-photo-7586689.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "title": "AUDIO DESCRIPTION",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/7086735/pexels-photo-7086735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "title": "LOCALISATION",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita culpa sunt consequatur? Eum veniam quo iusto error veritatis repudiandae eius!",
+      "img": "https://images.pexels.com/photos/7086289/pexels-photo-7086289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ],
+  "ProvidedTo": {
+    "mainHeading": "WE PROVIDE OUR SERVICES TO"
+  },
+  "bigLink": {
+    "head": "We can make your content global",
+    "title": "LET'S CHAT",
+    "linkTitle": "CONTACT US",
+    "to": "/contactus",
+    "bgImg": "https://images.pexels.com/photos/34223/mont-saint-michel-france-normandy-europe.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+}

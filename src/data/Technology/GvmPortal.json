@@ -1,0 +1,78 @@
+{
+  "head": "GVM PORTAL",
+  "body": "Captivate your global audience",
+  "bgImg": "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "bigHeading": {
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque neque ipsa porro molestiae dolorem dignissimos eum, labore, explicabo velit laboriosam sapiente hic fuga minima quo tenetur beatae illum quibusdam quasi.",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat porro odit perspiciatis veniam facere facilis delectus debitis? Ducimus nobis amet id voluptas voluptatem ipsum fugit a, at doloremque ea consequuntur, dolores culpa reiciendis! Quam dolores molestiae obcaecati omnis quos laboriosam, pariatur non provident amet dolore reiciendis vero debitis explicabo quaerat?",
+    "headingBtn": "Talk to an expert",
+    "detailHeading": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo dignissimos doloribus recusandae eligendi rem sint, quod inventore sapiente enim deserunt qui culpa iure at quia assumenda. Consectetur non odio deserunt nostrum maiores tenetur, exercitationem temporibus assumenda, sapiente, quos quaerat aperiam.",
+    "detailBody": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias quisquam optio, dicta a earum possimus vitae? Aliquam ut assumenda, dolores deleniti qui culpa amet aspernatur. Asperiores distinctio delectus expedita sit suscipit corrupti quae dolores aliquid possimus. Dignissimos odio nisi voluptates. Iste inventore quis nobis laborum repudiandae ad odio incidunt, voluptates quia at sit aliquam tempora aliquid cupiditate omnis reprehenderit quidem."
+  },
+  "actions": {
+    "heading": "OUR PORTAL IN ACTION",
+    "actions": [
+      {
+        "subHeadings": [
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          },
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          },
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          }
+        ],
+        "imgDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium perferendis nisi doloremque nam pariatur sapiente! Assumenda sint ipsam molestiae commodi amet deserunt possimus saepe maxime odit. Quam, dolor nihil. Ut nam totam vitae voluptates dolores eius quam officiis sit dignissimos, iure quibusdam illum saepe aspernatur voluptate excepturi veniam soluta doloremque?"
+      },
+      {
+        "subHeadings": [
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          },
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          },
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          }
+        ],
+        "imgDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium perferendis nisi doloremque nam pariatur sapiente! Assumenda sint ipsam molestiae commodi amet deserunt possimus saepe maxime odit. Quam, dolor nihil. Ut nam totam vitae voluptates dolores eius quam officiis sit dignissimos, iure quibusdam illum saepe aspernatur voluptate excepturi veniam soluta doloremque?"
+      },
+      {
+        "subHeadings": [
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          },
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          },
+          {
+            "title": "SUBHEADING",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore amet asperiores aspernatur architecto quam"
+          }
+        ],
+        "imgDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium perferendis nisi doloremque nam pariatur sapiente! Assumenda sint ipsam molestiae commodi amet deserunt possimus saepe maxime odit. Quam, dolor nihil. Ut nam totam vitae voluptates dolores eius quam officiis sit dignissimos, iure quibusdam illum saepe aspernatur voluptate excepturi veniam soluta doloremque?"
+      }
+    ]
+  },
+  "ProvidedTo": {
+    "mainHeading": "TECHNOLOGY TRUSTED BY"
+  },
+  "bigLink": {
+    "head": "We can make your content global",
+    "title": "LET'S CHAT",
+    "linkTitle": "CONTACT US",
+    "to": "/contactus",
+    "bgImg": "https://images.pexels.com/photos/2915957/pexels-photo-2915957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+}

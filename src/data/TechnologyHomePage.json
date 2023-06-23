@@ -1,0 +1,56 @@
+{
+  "head": "TECHNOLOGY",
+  "body": "Captivate your global audience",
+  "bgImg": "https://images.pexels.com/photos/5650546/pexels-photo-5650546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "bigHeading": {
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque neque ipsa porro molestiae dolorem dignissimos eum, labore, explicabo velit laboriosam sapiente hic fuga minima quo tenetur beatae illum quibusdam quasi.",
+    "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat porro odit perspiciatis veniam facere facilis delectus debitis? Ducimus nobis amet id voluptas voluptatem ipsum fugit a, at doloremque ea consequuntur, dolores culpa reiciendis! Quam dolores molestiae obcaecati omnis quos laboriosam, pariatur non provident amet dolore reiciendis vero debitis explicabo quaerat?",
+    "headingBtn": "Talk to an expert",
+    "detailHeading": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo dignissimos doloribus recusandae eligendi rem sint, quod inventore sapiente enim deserunt qui culpa iure at quia assumenda. Consectetur non odio deserunt nostrum maiores tenetur, exercitationem temporibus assumenda, sapiente, quos quaerat aperiam.",
+    "detailBody": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias quisquam optio, dicta a earum possimus vitae? Aliquam ut assumenda, dolores deleniti qui culpa amet aspernatur. Asperiores distinctio delectus expedita sit suscipit corrupti quae dolores aliquid possimus. Dignissimos odio nisi voluptates. Iste inventore quis nobis laborum repudiandae ad odio incidunt, voluptates quia at sit aliquam tempora aliquid cupiditate omnis reprehenderit quidem."
+  },
+  "BigLinkDiv": [
+    {
+      "title": "GVM PORTAL",
+      "body": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse similique exercitationem optio tempore quod dignissimos, maiores debitis quidem corporis quae.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse similique exercitationem optio tempore quod dignissimos, maiores debitis quidem corporis quae."
+      ],
+      "to": "",
+      "linkTitle": "Explore The Portal",
+      "img": "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "points": [
+        "Each Section should have bullet points",
+        "As it allows users to quickly scan for information",
+        "And allow us to pick what we want them to see"
+      ]
+    }
+  ],
+  "ProvidedTo": {
+    "preDetails": {
+      "title": "HEADING",
+      "subheadings": [
+        {
+          "title": "SUBHEADING",
+          "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum earum temporibus dolorum. Nobis autem esse unde nisi accusantium fuga numquam consectetur doloremque odio iure? Error recusandae at obcaecati veritatis maxime, consequatur, quae, veniam ex voluptatum officia eveniet? Dolorum, ab. Voluptatum."
+        },
+        {
+          "title": "SUBHEADING",
+          "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum earum temporibus dolorum. Nobis autem esse unde nisi accusantium fuga numquam consectetur doloremque odio iure? Error recusandae at obcaecati veritatis maxime, consequatur, quae, veniam ex voluptatum officia eveniet? Dolorum, ab. Voluptatum."
+        },
+        {
+          "title": "SUBHEADING",
+          "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum earum temporibus dolorum. Nobis autem esse unde nisi accusantium fuga numquam consectetur doloremque odio iure? Error recusandae at obcaecati veritatis maxime, consequatur, quae, veniam ex voluptatum officia eveniet? Dolorum, ab. Voluptatum."
+        }
+      ]
+    },
+    "mainHeading": "TECHNOLOGY TRUSTED BY"
+  },
+  "bigLink": {
+    "head": "We can make your content global",
+    "title": "LET'S CHAT",
+    "linkTitle": "CONTACT US",
+    "to": "/contactus",
+    "bgImg": "https://images.pexels.com/photos/2915957/pexels-photo-2915957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+}

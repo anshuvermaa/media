@@ -1,0 +1,145 @@
+{
+  "head": "TALK TO AN EXPERT",
+  "body": "Captivate your global audience",
+  "bgImg": "https://images.pexels.com/photos/3765132/pexels-photo-3765132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "Form": {
+    "heading": "LET US KNOW WHAT YOU NEED",
+    "body": "If you're enquiring or want to know more about how we work, get in conatct below",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "field": "First Name",
+        "important": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "field": "Last Name",
+        "important": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "field": "Email Address",
+        "important": true
+      },
+      {
+        "type": "text",
+        "name": "number",
+        "field": "Phone Number",
+        "important": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "field": "Company/Organisation",
+        "important": true
+      },
+      {
+        "type": "text",
+        "name": "country",
+        "field": "Country",
+        "important": true
+      },
+      {
+        "type": "select",
+        "name": "inquiry",
+        "field": "Inquiry",
+        "important": true,
+        "options": [
+          { "value": "Sales Inquiry", "name": "Sales Inquiry" },
+          { "value": "Investor Inquiry", "name": "Investor Inquiry" },
+          { "value": "Freelance Inquiry", "name": "Freelance Inquiry" },
+          { "value": "Career Inquiry", "name": "Career Inquiry" }
+        ]
+      },
+      {
+        "type": "select",
+        "name": "region",
+        "field": "Region",
+        "important": true,
+        "options": [
+          { "value": "Europe", "name": "Europe" },
+          { "value": "North America", "name": "North America" },
+          { "value": "Latin America", "name": "Latin America" },
+          { "value": "Asia Pacific", "name": "Asia Pacific" },
+          { "value": "Middle East and Africa", "name": "Middle East and Africa" },
+          { "value": "Australia and New Zealand", "name": "Australia and New Zealand" }
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "description",
+        "field": "How can we help?",
+        "important": true
+      },
+      {
+        "type": "checkbox",
+        "name": "region",
+        "field": "By clicking submit, you agree with the storing and handling of your data by this website in accordance with our Privacy Policy",
+        "important": false
+      },
+      {
+        "type": "checkbox",
+        "name": "region",
+        "field": "By clicking submit, you agree with the storing and handling of your data by this website in accordance with our Privacy Policy",
+        "important": false
+      }
+    ]
+  },
+  "headOffice": {
+    "head": "HEAD OFFICE",
+    "bgImg": "https://images.pexels.com/photos/1062175/pexels-photo-1062175.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "address": ["Logie Court,", "Innovation Park,", "Striling", "FK9 4NF"],
+    "number": "0845 130 1170",
+    "email": "info@globalvoices.co.uk"
+  },
+  "otherLocations": {
+    "head": "OTHER LOCATIONS",
+    "cities": [
+      {
+        "city": "London",
+        "email": "info@globalvoices.co.uk",
+        "number": "0845 130 1170",
+        "img": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {
+        "city": "New York",
+        "email": "info@globalvoices.co.uk",
+        "number": "0845 130 1170",
+        "img": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {
+        "city": "Tokyo",
+        "email": "info@globalvoices.co.uk",
+        "number": "0845 130 1170",
+        "img": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {
+        "city": "Paris",
+        "email": "info@globalvoices.co.uk",
+        "number": "0845 130 1170",
+        "img": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {
+        "city": "Sydney",
+        "email": "info@globalvoices.co.uk",
+        "number": "0845 130 1170",
+        "img": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {
+        "city": "Mumbai",
+        "email": "info@globalvoices.co.uk",
+        "number": "0845 130 1170",
+        "img": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      },
+      {
+        "city": "Dubai",
+        "email": "info@globalvoices.co.uk",
+        "number": "0845 130 1170",
+        "img": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      }
+    ]
+  }
+}
